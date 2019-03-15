@@ -1,0 +1,21 @@
+{
+  "name": "base-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "description": "base project for puppeteer tests",
+  "author": "Carlos Llanos",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "jest": "^24.5.0",
+    "puppeteer": "^1.13.0",
+    "rimraf": "^2.6.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
