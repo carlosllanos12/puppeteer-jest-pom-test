@@ -4,9 +4,6 @@ const timeout = 10000;
 const nfl = 'NFL';
 const fakeNfl = 'NFLFake';
 
-
-
-
 describe('search', () => {
     let page
     jest.setTimeout(15000);
